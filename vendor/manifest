@@ -1,0 +1,11 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/ncw/directio",
+			"repository": "https://github.com/ncw/directio",
+			"revision": "7abf59266cdbc8ae6c215abb79b3ac148a15ddd4",
+			"branch": "master"
+		}
+	]
+}
